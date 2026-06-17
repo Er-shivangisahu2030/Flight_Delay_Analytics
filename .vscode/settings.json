@@ -1,0 +1,20 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "airline_dw_local",
+            "group": "Server and Port",
+            "database": "airline_dw",
+            "username": "root",
+            "password": "disha@8249"
+        }
+    ]
+}
