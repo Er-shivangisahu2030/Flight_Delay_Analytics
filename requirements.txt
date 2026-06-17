@@ -5,4 +5,3 @@ pymysql
 plotly
 openpyxl
 pillow
-python-3.11
